@@ -14,6 +14,8 @@ Toggle the completion status of a todo by clicking on the checkbox on the left o
 
 Delete a todo by clicking on the red icon to the right of a todo
 
+Filter the completed todos by clicking on the `Hide Completed` button
+
 Sort the todo list by name or date added by clicking the sort button
 
 Logout by clicking on the brown icon next to the username at the top right
