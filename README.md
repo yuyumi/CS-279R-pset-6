@@ -2,7 +2,7 @@
 
 ## How to Access
 
-Visit [cs279r-pset-6.meteorapp.com](cs279r-pset-6.meteorapp.com) (Note: features may be slow to render/load)
+Visit https://cs279r-pset-6.meteorapp.com/ (Note: features may be slow to render/load)
 
 ## How to Use
 
